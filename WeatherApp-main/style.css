@@ -42,7 +42,7 @@ form input[type="submit"]{
     transition: all 0.2s ease-in;
 }
 form input[type="submit"]:hover{
-    background-color: rgb(171, 75, 75);
+    background-color: rgb(227, 158, 10);
 }
 .icon img{
     width: 100px;
